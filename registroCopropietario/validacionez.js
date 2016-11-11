@@ -1,3 +1,4 @@
+//validador de RUT chileno mediante su digito verificador
 function validaRut(){  
     var rut = document.getElementById("rut").value;
     
