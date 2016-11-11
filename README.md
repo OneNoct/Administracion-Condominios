@@ -20,6 +20,7 @@ las BBDD, es necesario tener instalado Apache, MySql (con PhpMyAdmin)
 y PHP (o simplemente usar Xampp)
 
 Para su uso:
+
 	(1) Clonar o descargar el proyecto desde GitHub y guardar
 	en htdocs;
 	(2) Iniciar el servidor Apache
